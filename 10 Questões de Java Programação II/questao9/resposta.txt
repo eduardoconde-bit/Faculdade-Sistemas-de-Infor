@@ -1,0 +1,6 @@
+As saídas do código são:
+
+i = 0, j = 1
+i = 0, j = 2
+i = 1, j = 0
+i = 2, j = 2
