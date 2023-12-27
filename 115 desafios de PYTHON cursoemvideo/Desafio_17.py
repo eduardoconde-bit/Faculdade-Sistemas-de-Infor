@@ -1,0 +1,13 @@
+print('\033[33mPROGRAMA MEDIDOR DE HIPOTENUSA\033[m')
+co = float(input('Digite o valor do cateto oposto: '))
+ca = float(input('Digite o valor do cateto adjascente: '))
+h1 = (co * co) + (ca * ca)
+h = h1 ** (1/2)
+print('A hipotenusa mede {:.2f}'.format(h))
+print()
+from math import hypot
+print('\033[31mHIPOTENUSA COM MÓDULO\033[m')
+co = float(input('Digite o valor do cateto oposto '))
+ca = float(input('Digite o do cateto adjascente '))
+hi = hypot(co, ca)
+print('o valor da hipotenusa é {:.2f}'.format(hi))

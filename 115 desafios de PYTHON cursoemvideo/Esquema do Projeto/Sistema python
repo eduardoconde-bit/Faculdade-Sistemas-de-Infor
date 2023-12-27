@@ -1,0 +1,40 @@
+1 - Loja e Gerenciador de Loja
+
+1.1 - 2 PROGRAMAS -----------------------------------------------------------------------
+
+1.2 - Um porgrama referente ao usuário e outro para administrador
+
+-------------------------------Usuário---------------------------------------------------
+1.3 - e-commerce
+    0.1 - Motor de Busca
+	1.1 - Mostrar Produtos
+	2.1 - Escolher Produtos
+	3.1 - Comprar
+	4.1 - Sair
+
+------------------------------------------------------------------------------------------	
+	BÁSICO COMPLETO (aberto a melhorias)
+------------------Administrador-----------------------------------------------------------
+Cadastrar um produto = Pronto :)
+1 - escolha == Enter
+2 - 	nome do Produto
+3 - 	valor
+4 - 	Inserir esses valores no Arquivo
+		cadrastro() e subcadrasto()
+5 -	retorna um mensagem
+		sucesso!
+		Finaliza a inserção
+------------------------------------------------------------------------------------------
+6 - Motor de Busca do Administrador
+	1 - vai achar os nomes dos produtos específicos e informa-los ao usuário.
+	2 - Tentar buscar uma blioteca com função de correções de palavras em portugũes (eu)
+
+7 - Controle de Estoque
+	Mostrar Quantidade de Produtos
+	Deletar Produtos
+	Adicionar Produtos (Função já existente)
+
+8 - Categorias
+    Função categorias
+        1 - Cria categorias para os Produtos
+-------------------------------------------------------------------------------------------
